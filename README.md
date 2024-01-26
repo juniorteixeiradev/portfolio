@@ -1,5 +1,6 @@
 <h2 align="center">
   Meu portfolio<br/>
+  Desenvolvido em React + Vite + BootStrap
   <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
 </h2>
 <div align="center">
